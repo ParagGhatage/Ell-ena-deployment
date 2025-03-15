@@ -33,8 +33,7 @@ export default function Hero() {
                 <span>No credit card required</span>
               </div>
               <div className="flex items-center space-x-1">
-                <CheckCircle className="h-4 w-4 text-primary" />
-                <span>14-day free trial</span>
+                
               </div>
             </div>
           </div>
